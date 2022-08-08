@@ -1,6 +1,25 @@
-- 👋 Всем привет. Я Frontend разработчик
-- 👀 По направлению Frontend интересуюсь JavaScript ES6+, Vue, React, TypeScript, Webpack, Git, REST API
-- 💻 По направлению Backend интересуюсь - Laravel, PHP, Node.js, Python, MySQL, WordPress
+## 👋 Всем привет. Я Frontend developer
+### 👀 Frontend - programming languages
+
+<div style="sidplay:flex">
+<img width="40px" height="40px" src="images/ts.svg"/>
+<img width="40px" height="40px" src="images/ts.svg"/>
+<img width="40px" height="40px" src="images/ts.svg"/>
+<img width="40px" height="40px" src="images/ts.svg"/>
+</div>
+
+JavaScript ES6+, Vue, React, Webpack, Git, REST API
+### 💻 Backend - programming languages
+
+<div style="sidplay:flex">
+<img width="40px" height="40px" src="images/ts.svg"/>
+<img width="40px" height="40px" src="images/ts.svg"/>
+<img width="40px" height="40px" src="images/ts.svg"/>
+<img width="40px" height="40px" src="images/ts.svg"/>
+</div>
+
+ Laravel, PHP, Node.js, Python, MySQL, WordPress
+ 
 - 🌱 В текущий момент работаю в IT компании
 - 💞️ Ищу единомышленников для обмена опытом и разработки интересных проектов
 - 📫 Со мной связаться можно по мобильному телефону, Telegram, WhatsApp
