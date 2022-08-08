@@ -20,7 +20,11 @@
     <img width="40px" height="40px" src="images/figma.svg"/>
     <img width="100px" height="40px" src="images/firebase.svg"/>
     <img width="40px" height="40px" src="images/jquery.svg"/>
-   
+    <img width="40px" height="40px" src="images/pwa.svg"/>
+    <img width="40px" height="40px" src="images/github.svg"/>
+    <img width="40px" height="40px" src="images/jest.png"/>
+    <img width="100px" height="40px" src="images/ci.jpg"/>
+
 </div>
 
 ### 💻 Backend - development stack
@@ -28,13 +32,13 @@
     <img width="40px" height="40px" src="images/node-js.svg"/>
     <img width="40px" height="40px" src="images/php.svg"/>
     <img width="40px" height="40px" src="images/laravel.svg"/>
-    <img width="40px" height="40px" src="images/ts.svg"/>
     <img width="40px" height="40px" src="images/mysql.svg"/>
     <img width="40px" height="40px" src="images/docker.svg"/>
-    <img width="100px" height="40px" src="images/wordpress.svg"/>
+    <img width="40px" height="40px" src="images/wordpress.svg"/>
 </div>
  
  <br/>
+
 - 🌱 В текущий момент работаю в IT компании
 - 💞️ Ищу единомышленников для обмена опытом и разработки интересных проектов
 - 📫 Со мной связаться можно по мобильному телефону, Telegram, WhatsApp
