@@ -24,6 +24,7 @@
     <img width="40px" height="40px" src="images/github.svg"/>
     <img width="40px" height="40px" src="images/jest.png"/>
     <img width="100px" height="40px" src="images/ci.jpg"/>
+    <img width="100px" height="40px" src="images/angular.svg"/>
 
 </div>
 
