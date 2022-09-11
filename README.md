@@ -25,7 +25,7 @@
     <img width="40px" height="40px" src="images/jest.png"/>
     <img width="100px" height="40px" src="images/ci.jpg"/>
     <img width="100px" height="40px" src="images/angular.svg"/>
-
+    <img width="100px" height="40px" src="images/jetbrains.svg"/>
 </div>
 
 ### 💻 Backend - development stack
