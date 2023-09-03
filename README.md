@@ -55,7 +55,6 @@
     <img width="40px" height="40px" src="images/php.svg"/>
     <img width="40px" height="40px" src="images/laravel.svg"/>
     <img width="40px" height="40px" src="images/mysql.svg"/>
-  
     <img width="40px" height="40px" src="images/wordpress.svg"/>
 </div>
  
