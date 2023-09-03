@@ -5,6 +5,7 @@
     <img width="40px" height="40px" src="images/html5.svg"/>
     <img width="40px" height="40px" src="images/css3.svg"/>
     <img width="40px" height="40px" src="images/js.svg"/>
+        <img width="40px" height="40px" src="images/vitetest.svg"/>
     <br/>
     <img width="40px" height="40px" src="images/ts.svg"/>
     <img width="40px" height="40px" src="images/webpack.svg"/>
