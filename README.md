@@ -23,6 +23,7 @@
     <img width="40px" height="40px" src="images/npm.svg"/>
    <img width="40px" height="40px" src="images/webpack.svg"/>
    <img width="40px" height="40px" src="images/vite.svg"/>
+  <img width="40px" height="40px" src="images/docker.svg"/>
    <br/>
  <img width="40px" height="40px" src="images/vitetest.svg"/>
  <img width="40px" height="40px" src="images/jest.png"/>   
@@ -53,7 +54,7 @@
     <img width="40px" height="40px" src="images/php.svg"/>
     <img width="40px" height="40px" src="images/laravel.svg"/>
     <img width="40px" height="40px" src="images/mysql.svg"/>
-    <img width="40px" height="40px" src="images/docker.svg"/>
+  
     <img width="40px" height="40px" src="images/wordpress.svg"/>
 </div>
  
