@@ -24,6 +24,7 @@
    <img width="40px" height="40px" src="images/webpack.svg"/>
    <img width="40px" height="40px" src="images/vite.svg"/>
   <img width="40px" height="40px" src="images/docker.svg"/>
+        <img width="40px" height="40px" src="images/jenkins.png"/>
    <br/>
  <img width="40px" height="40px" src="images/vitetest.svg"/>
  <img width="40px" height="40px" src="images/jest.png"/>   
