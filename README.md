@@ -11,7 +11,7 @@
     <img width="40px" height="40px" src="images/vue.png"/>
     <img width="40px" height="40px" src="images/pinia.svg"/>
     <img width="100px" height="40px" src="images/nuxt.svg"/>
-    
+    <img width="100px" height="40px" src="images/quasar.svg"/>
  <br/>
    <img width="40px" height="40px" src="images/react.svg"/>
 <img width="40px" height="40px" src="images/redux.svg"/>
@@ -24,17 +24,12 @@
    <br/>
  <img width="40px" height="40px" src="images/vitetest.svg"/>
  <img width="40px" height="40px" src="images/jest.png"/>   
-   
-   
-    
+   <br/>
     <img width="40px" height="40px" src="images/figma.svg"/>
     <img width="100px" height="40px" src="images/firebase.svg"/>
-    
     <img width="40px" height="40px" src="images/pwa.svg"/>
     <img width="40px" height="40px" src="images/github.svg"/>
-    
     <img width="150px" src="images/cicd.png"/>
-   
     <img width="40px" height="40px" src="images/jetbrains.svg"/>
 </div>
 
