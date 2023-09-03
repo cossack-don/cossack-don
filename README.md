@@ -5,16 +5,29 @@
     <img width="40px" height="40px" src="images/html5.svg"/>
     <img width="40px" height="40px" src="images/css3.svg"/>
     <img width="40px" height="40px" src="images/js.svg"/>
-        <img width="40px" height="40px" src="images/vitetest.svg"/>
-    <br/>
     <img width="40px" height="40px" src="images/ts.svg"/>
-    <img width="40px" height="40px" src="images/webpack.svg"/>
+       
+    <br/>
     <img width="40px" height="40px" src="images/vue.png"/>
     <img width="40px" height="40px" src="images/pinia.svg"/>
-    <img width="40px" height="40px" src="images/vite.svg"/>
     <img width="100px" height="40px" src="images/nuxt.svg"/>
-    <img width="40px" height="40px" src="images/react.svg"/>
-    <img width="40px" height="40px" src="images/redux.svg"/>
+    
+    <br/>
+   <img width="40px" height="40px" src="images/react.svg"/>
+<img width="40px" height="40px" src="images/redux.svg"/>
+   <br/>
+   <img width="40px" height="40px" src="images/angular.svg"/>
+   <br/>
+   <img width="40px" height="40px" src="images/webpack.svg"/>
+   <img width="40px" height="40px" src="images/vite.svg"/>
+   <br/>
+ <img width="40px" height="40px" src="images/vitetest.svg"/>
+    
+    
+    
+    
+  
+    
     <img width="40px" height="40px" src="images/sass.svg"/>
     <img width="40px" height="40px" src="images/npm.svg"/>
     <img width="40px" height="40px" src="images/babel.svg"/>
@@ -26,7 +39,7 @@
     <img width="40px" height="40px" src="images/github.svg"/>
     <img width="40px" height="40px" src="images/jest.png"/>
     <img width="150px" src="images/cicd.png"/>
-    <img width="40px" height="40px" src="images/angular.svg"/>
+   
     <img width="40px" height="40px" src="images/jetbrains.svg"/>
 </div>
 
