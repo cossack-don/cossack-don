@@ -4,6 +4,7 @@
 <div style="display:flex;">
     <img width="40px" height="40px" src="images/html5.svg"/>
     <img width="40px" height="40px" src="images/css3.svg"/>
+    <img width="40px" height="40px" src="images/sass.svg"/>
     <img width="40px" height="40px" src="images/js.svg"/>
     <img width="40px" height="40px" src="images/ts.svg"/>
     <br/>
@@ -17,26 +18,21 @@
    <br/>
    <img width="40px" height="40px" src="images/angular.svg"/>
    <br/>
+    <img width="40px" height="40px" src="images/npm.svg"/>
    <img width="40px" height="40px" src="images/webpack.svg"/>
    <img width="40px" height="40px" src="images/vite.svg"/>
    <br/>
  <img width="40px" height="40px" src="images/vitetest.svg"/>
+ <img width="40px" height="40px" src="images/jest.png"/>   
+   
+   
     
-    
-    
-    
-  
-    
-    <img width="40px" height="40px" src="images/sass.svg"/>
-    <img width="40px" height="40px" src="images/npm.svg"/>
-    <img width="40px" height="40px" src="images/babel.svg"/>
-    <img width="40px" height="40px" src="images/bootstrap.svg"/>
     <img width="40px" height="40px" src="images/figma.svg"/>
     <img width="100px" height="40px" src="images/firebase.svg"/>
-    <img width="40px" height="40px" src="images/jquery.svg"/>
+    
     <img width="40px" height="40px" src="images/pwa.svg"/>
     <img width="40px" height="40px" src="images/github.svg"/>
-    <img width="40px" height="40px" src="images/jest.png"/>
+    
     <img width="150px" src="images/cicd.png"/>
    
     <img width="40px" height="40px" src="images/jetbrains.svg"/>
