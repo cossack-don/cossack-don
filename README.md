@@ -18,8 +18,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cossack-don&theme=neon-palenight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cossack-don)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cossack-don&layout=compact) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=cossack-don&theme=neon-palenight)](https://git.io/streak-stats) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cossack-don&show_icons=true)
 ### 👀 Frontend - development stack
 <div style="display:flex;">
     <img width="40px" height="40px" src="images/vue.png"/>
