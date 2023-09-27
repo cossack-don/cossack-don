@@ -1,4 +1,9 @@
-## 👋 Всем привет. Я Frontend developer
+<h1 align="center">👋 Всем привет. Я Senior Frontend developer</h1>
+<p align="center">
+    <img src="images/bg.gif" width="800px" height="100%"  />
+</p>
+
+
 
 ### 🛠 &nbsp;Core Languages and Tools + Backend Stack :
 <div>
@@ -14,7 +19,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
 </div>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 
 ### 👀 Frontend - development stack
 <div style="display:flex;">
