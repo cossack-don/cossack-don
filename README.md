@@ -2,7 +2,7 @@
 <p align="center">
     <img src="images/bg.gif" width="800px" height="100%"  />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=cossack-don&theme=neon-palenight)](https://git.io/streak-stats)
+
 
 ### 🛠 &nbsp;Core Languages and Tools + Backend Stack :
 <div>
@@ -18,7 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
 </div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=cossack-don&theme=neon-palenight)](https://git.io/streak-stats)
 
 ### 👀 Frontend - development stack
 <div style="display:flex;">
