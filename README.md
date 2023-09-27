@@ -19,7 +19,7 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cossack-don&theme=neon-palenight)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cossack-don)](https://github.com/anuraghazra/github-readme-stats)
 ### 👀 Frontend - development stack
 <div style="display:flex;">
     <img width="40px" height="40px" src="images/vue.png"/>
