@@ -17,12 +17,7 @@
 
 ### 👀 Frontend - development stack
 <div style="display:flex;">
-    <img width="40px" height="40px" src="images/html5.svg"/>
-    <img width="40px" height="40px" src="images/css3.svg"/>
-    <img width="40px" height="40px" src="images/sass.svg"/>
-    <img width="40px" height="40px" src="images/js.svg"/>
-    <img width="40px" height="40px" src="images/ts.svg"/>
-    <br/>
+
     <img width="40px" height="40px" src="images/vue.png"/>
     <img width="40px" height="40px" src="images/pinia.svg"/>
     <img width="100px" height="40px" src="images/nuxt.svg"/>
