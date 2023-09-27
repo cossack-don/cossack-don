@@ -2,8 +2,7 @@
 <p align="center">
     <img src="images/bg.gif" width="800px" height="100%"  />
 </p>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=cossack-don&theme=neon-palenight)](https://git.io/streak-stats)
 
 ### 🛠 &nbsp;Core Languages and Tools + Backend Stack :
 <div>
