@@ -4,7 +4,7 @@
 </p>
 
 
-### 🛠 &nbsp;Core Languages and Tools + Backend Stack :
+### 🛠 &nbsp;Core Languages and Tools + Backend Stack + CI/CD + Soft:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
@@ -44,12 +44,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp;
     
-    
 </div>
-
-
-### 💻 Backend - development stack
-
  
  <br/>
 
@@ -57,3 +52,6 @@
 - 💞️ Ищу единомышленников для обмена опытом и разработки интересных проектов
 - 📫 Со мной связаться можно по мобильному телефону, Telegram, WhatsApp
 - 🎓 Являюсь личным ментором и консультантом по IT направлению (помощь в успешных прохождениях собеседований, помощь в review кода)
+
+[Курс начинающий Frontender](https://s-zhur.ru/frontend/) <br/>
+[Мой сайт](https://s-zhur.ru/)
