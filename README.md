@@ -62,10 +62,6 @@
 
 ---
 
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -73,13 +69,7 @@
 ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)
 
 ### 💻 Backend - development stack
-<div style="sidplay:flex">
-    <img width="40px" height="40px" src="images/node-js.svg"/>
-    <img width="40px" height="40px" src="images/php.svg"/>
-    <img width="40px" height="40px" src="images/laravel.svg"/>
-    <img width="40px" height="40px" src="images/mysql.svg"/>
-    <img width="40px" height="40px" src="images/wordpress.svg"/>
-</div>
+
  
  <br/>
 
