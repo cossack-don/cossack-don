@@ -24,6 +24,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="redhat" alt="redhat" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
 </div>
 
 
