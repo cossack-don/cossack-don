@@ -1,4 +1,4 @@
-<h1 align="center">👋 Всем привет. Я Senior Frontend developer</h1>
+<h1 align="center">👋 Hello. I am Senior Frontend Developer</h1>
 <p align="center">
     <img src="images/bg.gif" width="800px" height="100%"  />
 </p>
