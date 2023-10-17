@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello. I am Senior Frontend Developer</h1>
 <p align="center">
-    <img src="images/bg.gif" width="800px" height="100%"  />
+    <img src="images/bg.jpg" width="100%" height="100%"  />
 </p>
 
 
