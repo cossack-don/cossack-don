@@ -68,5 +68,12 @@
 </div>
 
 
- 
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="grpc" alt="grpc" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" title="grpc" alt="grpc" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
 
