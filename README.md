@@ -14,6 +14,8 @@
 [Когда нейросети смогут мыслить по-человечески?](https://dni.ru/society/2023/7/24/523159.html)  <br/>
 [IT-специалисты сталкиваются с угрозой нарушения безопасности](https://360.ru/news/obschestvo/programmist-zhuravlev-it-spetsialisty-ezhednevno-stalkivajutsja-s-ugrozoj-narushenija-bezopasnosti/)  <br/>
 
+### Technologies & Soft
+
 ##### Soft stack:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
