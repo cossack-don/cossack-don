@@ -1,6 +1,6 @@
 <h1 align="center">Senior Frontend Developer Expert in SBER</h1>
 
-### Опыт
+### Опыт:
 <ul>
     <li>7 лет в области IT - SBER, MTS, Telecom, Сфера Образования, E-commerce(B2B, B2C, HoReCa)</li>
     <li>Реализовал более 35 High-load проектов</li>
@@ -8,7 +8,7 @@
     <li>Провожу консультации</li>
 </ul>
 
-### SMI
+### SMI:
 [Большие возможности и смелые желания: о чем мечтают айтишники](https://blog.skillfactory.ru/mechti-ajtishnikov/) <br/>
 [Профессия frontend-разработчик](https://www.kp.ru/edu/rabota/professiya-frontend-razrabotchik/) <br/>
 [Когда нейросети смогут мыслить по-человечески?](https://dni.ru/society/2023/7/24/523159.html)  <br/>
