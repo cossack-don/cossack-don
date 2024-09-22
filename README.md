@@ -43,6 +43,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lodash/lodash-original.svg" title="lodash" alt="lodash" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rollup/rollup-original.svg" title="rollup" alt="rollup" width="40" height="40"/>&nbsp;
 </div>
 
 ##### Frotend Layer UI:
@@ -50,32 +53,34 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify" alt="vuetify" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="quasar" alt="quasar" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
 </div>
 
 ##### Frotend Layer Tests:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="playwright" alt="playwright" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="vitest" alt="vitest" width="40" height="40"/>&nbsp;
 </div>
 
 ##### Frontend other:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rollup/rollup-original.svg" title="rollup" alt="rollup" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original-wordmark.svg" title="sentry" alt="sentry" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socketio" alt="socketio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="vitest" alt="vitest" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lodash/lodash-original.svg" title="lodash" alt="lodash" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="ionic" alt="ionic" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" title="rxjs" alt="rxjs" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="vercel" alt="vercel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="stackoverflow" alt="stackoverflow" width="40" height="40"/>&nbsp;
 </div>
 
 ##### Backend stack:
@@ -106,14 +111,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-</div>
-
-##### Other
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="vercel" alt="vercel" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="stackoverflow" alt="stackoverflow" width="40" height="40"/>&nbsp;
 </div>
 
