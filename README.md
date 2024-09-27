@@ -17,7 +17,7 @@
 ### О себе
 
 ### Компетенции
-Frontend, Leadership, Management, Interview, Career
+#Frontend, #Leadership, #Management, #Interview, #Career
 
 ### Technologies & Soft
 
