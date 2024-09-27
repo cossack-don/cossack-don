@@ -8,11 +8,16 @@
     <li>Провожу консультации</li>
 </ul>
 
-### SMI:
+### Media:
 [Большие возможности и смелые желания: о чем мечтают айтишники](https://blog.skillfactory.ru/mechti-ajtishnikov/) <br/>
 [Профессия frontend-разработчик](https://www.kp.ru/edu/rabota/professiya-frontend-razrabotchik/) <br/>
 [Когда нейросети смогут мыслить по-человечески?](https://dni.ru/society/2023/7/24/523159.html)  <br/>
 [IT-специалисты сталкиваются с угрозой нарушения безопасности](https://360.ru/news/obschestvo/programmist-zhuravlev-it-spetsialisty-ezhednevno-stalkivajutsja-s-ugrozoj-narushenija-bezopasnosti/)  <br/>
+
+### О себе
+
+### Компетенции
+Frontend, Leadership, Management, Interview, Career
 
 ### Technologies & Soft
 
