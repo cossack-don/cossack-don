@@ -8,7 +8,7 @@
     <li>Провожу консультации</li>
 </ul>
 
-### Media:
+### Медиа:
 [Большие возможности и смелые желания: о чем мечтают айтишники](https://blog.skillfactory.ru/mechti-ajtishnikov/) <br/>
 [Профессия frontend-разработчик](https://www.kp.ru/edu/rabota/professiya-frontend-razrabotchik/) <br/>
 [Когда нейросети смогут мыслить по-человечески?](https://dni.ru/society/2023/7/24/523159.html)  <br/>
