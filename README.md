@@ -11,15 +11,55 @@
 </ul>
 
 ### Медиа:
-[Большие возможности и смелые желания: о чем мечтают айтишники](https://blog.skillfactory.ru/mechti-ajtishnikov/) <br/>
-[Профессия frontend-разработчик](https://www.kp.ru/edu/rabota/professiya-frontend-razrabotchik/) <br/>
-[Когда нейросети смогут мыслить по-человечески?](https://dni.ru/society/2023/7/24/523159.html)  <br/>
-[IT-специалисты сталкиваются с угрозой нарушения безопасности](https://360.ru/news/obschestvo/programmist-zhuravlev-it-spetsialisty-ezhednevno-stalkivajutsja-s-ugrozoj-narushenija-bezopasnosti/)  <br/>
-[«Открывает большие возможности»: выяснилось, как особая сеть поможет повысить качество жизни в российских городах](https://mosregtoday.ru/news/soc/otkryvaet-bolshie-vozmozhnosti-vyjasnilos-kak-osobaja-set-pomozhet-povysit-kachestvo-zhizni-v-rossijskih-gorodah/)  <br/>
-[Программист Журавлев раскрыл главные плюсы новой российской сети для умного города](https://www.osnmedia.ru/obshhestvo/programmist-zhuravlev-raskryl-glavnye-plyusy-novoj-rossijskoj-seti-dlya-umnogo-goroda/)  <br/>
-[Московским студентам разрешили писать дипломы с помощью нейросетей Об этом сообщает "Рамблер"](https://news.rambler.ru/education/51334858-moskovskim-studentam-razreshili-pisat-diplomy-s-pomoschyu-neyrosetey/)  <br/>
-[«Разработки ведутся»: как ученые ищут способ распознавать ложь с помощью мобильника](https://mosregtoday.ru/news/soc/razrabotki-vedutsja-kak-uchenye-ischut-sposob-raspoznavat-lozh-s-pomoschju-mobilnika/)  <br/>
-[«Существует несколько способов»: программист рассказал, как взламывают зашифрованные мессенджеры](https://mosregtoday.ru/news/soc/suschestvuet-neskolko-sposobov-programmist-rasskazal-kak-vzlamyvajut-zashifrovannye-messendzhery/)  <br/>
+
+<ul>
+    <li>
+        <a href="https://blog.skillfactory.ru/mechti-ajtishnikov/" target="_blank">
+            Большие возможности и смелые желания: о чем мечтают айтишники
+        </a> 
+    </li>
+    <li>
+        <a href="https://www.kp.ru/edu/rabota/professiya-frontend-razrabotchik/" target="_blank">
+            Профессия frontend-разработчик
+        </a>
+    </li>
+    <li>
+        <a href="https://dni.ru/society/2023/7/24/523159.html" target="_blank"> 
+        Когда нейросети смогут мыслить по-человечески?
+        </a>
+    </li>
+    <li>
+        <a href="https://360.ru/news/obschestvo/programmist-zhuravlev-it-spetsialisty-ezhednevno-stalkivajutsja-s-ugrozoj-narushenija-bezopasnosti/" target="_blank"> 
+            IT-специалисты сталкиваются с угрозой нарушения безопасности
+        </a>
+    </li>
+    <li>
+        <a href="https://mosregtoday.ru/news/soc/otkryvaet-bolshie-vozmozhnosti-vyjasnilos-kak-osobaja-set-pomozhet-povysit-kachestvo-zhizni-v-rossijskih-gorodah/" target="_blank"> 
+            «Открывает большие возможности»: выяснилось, как особая сеть поможет повысить качество жизни в российских городах
+        </a>
+    </li>
+    <li>
+        <a href="https://www.osnmedia.ru/obshhestvo/programmist-zhuravlev-raskryl-glavnye-plyusy-novoj-rossijskoj-seti-dlya-umnogo-goroda/" target="_blank"> 
+            Программист Журавлев раскрыл главные плюсы новой российской сети для умного города
+        </a>
+    </li>
+    <li>
+        <a href="https://news.rambler.ru/education/51334858-moskovskim-studentam-razreshili-pisat-diplomy-s-pomoschyu-neyrosetey/" target="_blank"> 
+            Московским студентам разрешили писать дипломы с помощью нейросетей Об этом сообщает "Рамблер"
+        </a>
+    </li>
+    <li>
+        <a href="https://mosregtoday.ru/news/soc/suschestvuet-neskolko-sposobov-programmist-rasskazal-kak-vzlamyvajut-zashifrovannye-messendzhery/" target="_blank">
+            «Существует несколько способов»: программист рассказал, как взламывают зашифрованные мессенджеры
+        </a>
+    </li>
+    <li>
+        <a href="https://mosregtoday.ru/news/soc/razrabotki-vedutsja-kak-uchenye-ischut-sposob-raspoznavat-lozh-s-pomoschju-mobilnika/" target="_blank">
+            «Разработки ведутся»: как ученые ищут способ распознавать ложь с помощью мобильника 
+        </a>
+    </li>
+</ul>
+
 ### О себе:
 Начал путь как junior frontend-разработчик, со временем вырос до уровня senior. Сейчас активно занимаюсь развитием в сфере менеджмента и тимлидства. За плечами более 500 проведенных собеседований — как технических, так и общих. В свободное время посещаю конференции, связанные с прокачкой soft skills,  поддерживаю коллег и друзей в создании крутых продуктов. Уже несколько лет посвящаю себя оптимизации процессов разработки и развитию кросс-функциональных команд.
 
