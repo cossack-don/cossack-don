@@ -5,7 +5,9 @@
     <li>7 лет в области IT - SBER, MTS, Telecom, Сфера Образования, E-commerce(B2B, B2C, HoReCa)</li>
     <li>Реализовал более 35 High-load проектов</li>
     <li>Обучаю программированию</li>
-    <li>Провожу консультации</li>
+    <li>Провожу <a href="https://getmentor.dev/mentor/zhuravlev-sergey-4293" target="_blank">консультации</a></li>
+    <li>Составляю Road Map для разработчиков</li>
+    <li>Занимаюсь менторством</li>
 </ul>
 
 ### Медиа:
