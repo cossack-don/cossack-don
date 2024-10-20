@@ -16,7 +16,7 @@
 [«Открывает большие возможности»: выяснилось, как особая сеть поможет повысить качество жизни в российских городах](https://mosregtoday.ru/news/soc/otkryvaet-bolshie-vozmozhnosti-vyjasnilos-kak-osobaja-set-pomozhet-povysit-kachestvo-zhizni-v-rossijskih-gorodah/)  <br/>
 [Программист Журавлев раскрыл главные плюсы новой российской сети для умного города](https://www.osnmedia.ru/obshhestvo/programmist-zhuravlev-raskryl-glavnye-plyusy-novoj-rossijskoj-seti-dlya-umnogo-goroda/)  <br/>
 [Московским студентам разрешили писать дипломы с помощью нейросетей Об этом сообщает "Рамблер"](https://news.rambler.ru/education/51334858-moskovskim-studentam-razreshili-pisat-diplomy-s-pomoschyu-neyrosetey/)  <br/>
-
+[«Разработки ведутся»: как ученые ищут способ распознавать ложь с помощью мобильника](https://mosregtoday.ru/news/soc/razrabotki-vedutsja-kak-uchenye-ischut-sposob-raspoznavat-lozh-s-pomoschju-mobilnika/)  <br/>
 
 ### О себе:
 Начал путь как junior frontend-разработчик, со временем вырос до уровня senior. Сейчас активно занимаюсь развитием в сфере менеджмента и тимлидства. За плечами более 500 проведенных собеседований — как технических, так и общих. В свободное время посещаю конференции, связанные с прокачкой soft skills,  поддерживаю коллег и друзей в создании крутых продуктов. Уже несколько лет посвящаю себя оптимизации процессов разработки и развитию кросс-функциональных команд.
