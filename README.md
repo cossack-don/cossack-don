@@ -58,6 +58,11 @@
             «Разработки ведутся»: как ученые ищут способ распознавать ложь с помощью мобильника 
         </a>
     </li>
+        <li>
+        <a href="https://aif.ru/techno/gadgets/cifrovoy-racion-eksperty-nazvali-gadzhety-pomogayushchie-sekonomit-byudzhet" target="_blank">
+           Цифровой рацион. Эксперты назвали гаджеты, помогающие сэкономить бюджет
+        </a>
+    </li>
 </ul>
 
 ### О себе:
