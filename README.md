@@ -68,6 +68,11 @@
            Программист Журавлев объяснил, почему YouTube планирует сменить интерфейс
         </a>
     </li>
+        <li>
+        <a href="https://vm.ru/news/1082650-programmist-zhuravlev-rasskazal-pochemu-ii-tyazhelo-zamenit-cheloveka" target="_blank">
+           Программист Журавлев рассказал, почему ИИ тяжело заменить человека
+        </a>
+    </li>
 </ul>
 
 ### О себе:
