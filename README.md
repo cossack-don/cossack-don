@@ -63,6 +63,11 @@
            Цифровой рацион. Эксперты назвали гаджеты, помогающие сэкономить бюджет
         </a>
     </li>
+    <li>
+        <a href="https://www.techinsider.ru/news/news-1663901-programmist-juravlev-obyyasnil-pochemu-youtube-planiruet-smenit-interfeis/" target="_blank">
+           Программист Журавлев объяснил, почему YouTube планирует сменить интерфейс
+        </a>
+    </li>
 </ul>
 
 ### О себе:
