@@ -17,7 +17,7 @@
 
 ### Услуги:
 <ul>
-    <li>Даю <a href="https://getmentor.dev/mentor/zhuravlev-sergey-4293" target="_blank">консультации</a></li>
+    <li>Даю <a href="https://getmentor.dev/mentor/zhuravlev-sergey-4293" target="_blank">Консультации</a></li>
     <li>Составляю Road Map для разработчиков</li>
     <li>Обучаю программированию</li>
     <li>Менторство / Code Review</li>
