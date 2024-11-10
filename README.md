@@ -1,4 +1,4 @@
-<h1 align="center">Senior Frontend Developer Expert in SBER</h1>
+<h1 align="center">Senior Frontend Expert in SBER</h1>
 
 ### Опыт:
 <ul>
