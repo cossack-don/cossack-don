@@ -2,7 +2,7 @@
 
 ### Опыт:
 <ul>
-    <li>7 лет в области IT - SBER, MTS, Telecom, Сфера Образования, E-commerce(B2B, B2C, HoReCa)</li>
+    <li>7 лет в области IT - СБЕР, MTS, Telecom, Сфера Образования, E-commerce(B2B, B2C, HoReCa)</li>
     <li>Реализовал более 35 High-load проектов</li>
 
 </ul>
