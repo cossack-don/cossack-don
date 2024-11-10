@@ -8,6 +8,7 @@
     <li>Провожу <a href="https://getmentor.dev/mentor/zhuravlev-sergey-4293" target="_blank">консультации</a></li>
     <li>Составляю Road Map для разработчиков</li>
     <li>Занимаюсь менторством</li>
+    <li>Подготовка к собеседованиям</li>
 </ul>
 
 ### Медиа:
