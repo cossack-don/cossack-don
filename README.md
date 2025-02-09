@@ -86,6 +86,11 @@
            Программист Журавлев рассказал, почему ИИ тяжело заменить человека
         </a>
     </li>
+    <li>
+        <a href="https://www.litres.ru/book/aleksandr-sherstov/zametki-programmistov-71397340/" target="_blank">
+           Литрес - соавтор книги Заметки Программистов
+        </a>
+    </li>
 </ul>
 
 
