@@ -1,4 +1,4 @@
-<h1 align="center">Senior Frontend Expert in SBER</h1>
+<h1 align="center">Scout Staff frontend expert</h1>
 
 ### Обо мне:
 Начал путь как junior frontend-разработчик, со временем вырос до уровня senior. Сейчас активно занимаюсь развитием в сфере менеджмента и тимлидства. За плечами более 500 проведенных собеседований — как технических, так и общих. 
