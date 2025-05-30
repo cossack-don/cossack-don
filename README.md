@@ -1,4 +1,4 @@
-<h1 align="center">🕵️‍♂️ Scout Staff Frontend Expert</h1>
+o<h1 align="center">🕵️‍♂️ Scout Staff Frontend Expert</h1>
 
 ### Обо мне:
 Начал путь как junior frontend-разработчик, со временем вырос до уровня senior. Сейчас активно занимаюсь развитием в сфере менеджмента и тимлидства. За плечами более 500 проведенных собеседований — как технических, так и общих. 
@@ -114,15 +114,15 @@
 #### ⛁ Data 
 - Sqlite, MySQL, PostgreSQL, Redis
 
-#### Project Managment 
-- Jira, Trello, Confluence
-
 #### 📱 Observability
 - Prometheus, Grafana, Thanos, Jaeger, Sentry, Vision, 
 
 #### 🏯 Infrastructure 
 - Docker, K8S, NGINX, GitLab/GitHub/BitBacket, Argo CD, Jenkins
 
+#### 👨‍💼 Project Managment 
+- Jira, Trello, Confluence
+- 
 #### ⛺🌙🎒🔦 Scout
 - _
 
