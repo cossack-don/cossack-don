@@ -108,10 +108,10 @@
 - PHP: Laravel, WordPress
 - Other: gRPC, 
 
-#### QA 
+#### 🧪 QA 
 - Python, Postman, Allure, Playwright, Cypress, Selenium
 
-#### Data 
+#### ⛁ Data 
 - Sqlite, MySQL, PostgreSQL, Redis
 
 #### Project Managment 
