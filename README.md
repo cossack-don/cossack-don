@@ -122,7 +122,8 @@
 
 #### 👨‍💼 Project Managment 
 - Jira, Trello, Confluence
-- 
+- Scram/Kanban/Agile
+
 #### ⛺🌙🎒🔦 Scout
-- _
+- Landscape
 
