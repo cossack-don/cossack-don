@@ -94,19 +94,19 @@
 ### 🛠️ Hards skills & 🎓 Soft skills
 
 #### 🖼 Frontend
-- Base: Git, SCSS, JavaScript, TypeScript, Axios, Npm, V8, Webpack, Vite, Rollup, Postman, Linters, 
-- Vue: Vue v3, Pinia, Vue Router, Nuxt.js, VeeValidate
-- React: React, React Router, Next.js, RTK, Redux, Effector, Redux-Saga, React Hook Form + Yup/Zod
-- Tests: Cypress, Mocha + Chai + ViteTest, PlayWrighte (E2E + Unit)
-- UI: Quasar, MUI, Vuetify, Element Plus, Bootstrap, Ant, Native UI-KIT + StoryBook
-- Other: Chart.js, Three.js, Apache E-Chart, Custom npm packages, VitePress, Vercel, FireBase, Socket.io, GraphQL
+- **Base**: Git, SCSS, JavaScript, TypeScript, Axios, Npm, V8, Webpack, Vite, Rollup, Postman, Linters, 
+- **Vue**: Vue v3, Pinia, Vue Router, Nuxt.js, VeeValidate
+- **React**: React, React Router, Next.js, RTK, Redux, Effector, Redux-Saga, React Hook Form + Yup/Zod
+- **Tests**: Cypress, Mocha + Chai + ViteTest, PlayWrighte (E2E + Unit)
+- **UI**: Quasar, MUI, Vuetify, Element Plus, Bootstrap, Ant, Native UI-KIT + StoryBook
+- **Other**: Chart.js, Three.js, Apache E-Chart, Custom npm packages, VitePress, Vercel, FireBase, Socket.io, GraphQL
 
 #### 🗄️ Backend
 - Python: FastAPI, native
 - Go: Gin, native
 - Node.js: Nest.js, Fastify, Express, native
 - PHP: Laravel, WordPress
-- Other: gRPC, 
+- Other: gRPC, Micro Service Architecture, Keycloak
 
 #### 🧪 QA 
 - Python, Postman, Allure, Playwright, Cypress, Selenium
