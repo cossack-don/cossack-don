@@ -91,9 +91,9 @@
     </li>
 </ul>
 
-### Hards skills & Soft skills
+### 🛠️ Hards skills & 🎓 Soft skills
 
-#### Frontend
+#### 🖼 Frontend
 - Base: Git, SCSS, JavaScript, TypeScript, Axios, Npm, V8, Webpack, Vite, Rollup, Postman, Linters, 
 - Vue: Vue v3, Pinia, Vue Router, Nuxt.js, VeeValidate
 - React: React, React Router, Next.js, RTK, Redux, Effector, Redux-Saga, React Hook Form + Yup/Zod
@@ -101,7 +101,7 @@
 - UI: Quasar, MUI, Vuetify, Element Plus, Bootstrap, Ant, Native UI-KIT + StoryBook
 - Other: Chart.js, Three.js, Apache E-Chart, Custom npm packages, VitePress, Vercel, FireBase, Socket.io, GraphQL
 
-#### Backend
+#### 🗄️ Backend
 - Python: FastAPI, native
 - Go: Gin, native
 - Node.js: Nest.js, Fastify, Express, native
@@ -117,12 +117,12 @@
 #### Project Managment 
 - Jira, Trello, Confluence
 
-#### Observability
+#### 📱 Observability
 - Prometheus, Grafana, Thanos, Jaeger, Sentry, Vision, 
 
-#### Infrastructure 
+#### 🏯 Infrastructure 
 - Docker, K8S, NGINX, GitLab/GitHub/BitBacket, Argo CD, Jenkins
 
-#### Scout
+#### ⛺🌙🎒🔦 Scout
 - _
 
