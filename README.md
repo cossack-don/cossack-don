@@ -94,7 +94,7 @@
 ### 🛠️ Hards skills & 🎓 Soft skills
 
 #### 🖼 Frontend
-- **Base**: Git, SCSS, JavaScript, TypeScript, Axios, Npm, V8, Webpack, Vite, Rollup, Postman, Linters, 
+- **Base**: Git, SCSS, JavaScript, TypeScript, Axios, Npm, V8, Webpack, Vite, Rollup, Postman, Linters
 - **Vue**: Vue v3, Pinia, Vue Router, Nuxt.js, VeeValidate
 - **React**: React, React Router, Next.js, RTK, Redux, Effector, Redux-Saga, React Hook Form + Yup/Zod
 - **Tests**: Cypress, Mocha + Chai + ViteTest, PlayWrighte (E2E + Unit)
@@ -115,7 +115,7 @@
 - Sqlite, MySQL, PostgreSQL, Redis
 
 #### 📱 Observability
-- Prometheus, Grafana, Thanos, Jaeger, Sentry, Vision, 
+- Prometheus, Grafana, Thanos, Jaeger, Sentry, Vision
 
 #### 🏯 Infrastructure 
 - Docker, K8S, NGINX, GitLab/GitHub/BitBacket, Argo CD, Jenkins
