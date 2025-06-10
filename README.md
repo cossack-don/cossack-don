@@ -85,6 +85,11 @@
         </a>
     </li>
     <li>
+        <a href="https://yamal-media.ru/narrative/kina-ne-budet-deneg-tozhe-kak-moshenniki-ispolzujut-piratskie-filmy-i-serialy" target="_blank">
+           «Кина» не будет, денег тоже: как мошенники используют пиратские фильмы и сериалы
+        </a>
+    </li>
+    <li>
         <a href="https://www.litres.ru/book/aleksandr-sherstov/zametki-programmistov-71397340/" target="_blank">
            Литрес - соавтор книги Заметки Программистов
         </a>
